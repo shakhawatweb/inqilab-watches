@@ -36,6 +36,8 @@ function AppRoutes() {
           <Route path="/shop" element={<Shop />} />
           <Route path="/product/:id" element={<ProductDetail />} />
           <Route path="/order" element={<OrderForm />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/admin" element={<AdminLayout />}>
             <Route index element={<Overview />} />
