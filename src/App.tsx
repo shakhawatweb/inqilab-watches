@@ -12,6 +12,8 @@ import ProductDetail from "./pages/ProductDetail";
 import OrderForm from "./pages/OrderForm";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+import Login from "./pages/Login";
+import Signup from "./pages/Signup";
 import AdminLayout from "./pages/admin/AdminLayout";
 import Overview from "./pages/admin/Overview";
 import Products from "./pages/admin/Products";
